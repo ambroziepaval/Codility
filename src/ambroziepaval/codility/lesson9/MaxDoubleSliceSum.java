@@ -1,4 +1,4 @@
-package ambroziepaval.codility;
+package ambroziepaval.codility.lesson9;
 
 class MaxDoubleSliceSum {
 

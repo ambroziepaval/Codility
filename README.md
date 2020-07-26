@@ -8,3 +8,4 @@
 ###### Lesson 10
     - 100% CountFactors
     - 100% MinPerimeterRectangle
+    - 100% Flags
