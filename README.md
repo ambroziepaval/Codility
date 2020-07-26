@@ -9,3 +9,4 @@
     - 100% CountFactors
     - 100% MinPerimeterRectangle
     - 100% Flags
+    - 100% Peaks
